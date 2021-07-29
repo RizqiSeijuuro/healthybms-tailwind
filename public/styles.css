@@ -15584,7 +15584,7 @@ video {
 
 .bg-blue-500 {
   --tw-bg-opacity: 1;
-  background-color: rgba(59, 130, 246, var(--tw-bg-opacity));
+  background-color: rgba(0, 73, 102, var(--tw-bg-opacity));
 }
 
 .bg-blue-600 {
@@ -15594,7 +15594,7 @@ video {
 
 .bg-blue-700 {
   --tw-bg-opacity: 1;
-  background-color: rgba(29, 78, 216, var(--tw-bg-opacity));
+  background-color: rgba(171, 170, 113, var(--tw-bg-opacity));
 }
 
 .bg-blue-800 {
